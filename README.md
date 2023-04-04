@@ -1,2 +1,2 @@
 # NEBOSH
-Intern
+Intern project under LIFESAFEACADAMIE
